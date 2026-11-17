@@ -10,7 +10,7 @@ It is intended to complement browser extensions such as Tweaks for YouTube witho
 Install URL:
 
 ```text
-https://raw.githubusercontent.com/Phaderon/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
+https://raw.githubusercontent.com/SiN-180/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
 ```
 
 ## How It Works

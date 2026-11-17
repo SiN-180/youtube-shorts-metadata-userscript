@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         YouTube Shorts Metadata
 // @namespace    local.youtube.shorts.metadata
-// @version      0.1.2
+// @version      0.1.3
 // @description  Adds upload date and duration back onto YouTube Shorts cards in search, subscriptions, and grids.
 // @match        https://www.youtube.com/*
 // @match        https://youtube.com/*
-// @homepageURL  https://github.com/Phaderon/youtube-shorts-metadata-userscript
-// @supportURL   https://github.com/Phaderon/youtube-shorts-metadata-userscript/issues
-// @downloadURL  https://raw.githubusercontent.com/Phaderon/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
-// @updateURL    https://raw.githubusercontent.com/Phaderon/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
+// @homepageURL  https://github.com/SiN-180/youtube-shorts-metadata-userscript
+// @supportURL   https://github.com/SiN-180/youtube-shorts-metadata-userscript/issues
+// @downloadURL  https://raw.githubusercontent.com/SiN-180/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
+// @updateURL    https://raw.githubusercontent.com/SiN-180/youtube-shorts-metadata-userscript/main/youtube-shorts-metadata.user.js
 // @run-at       document-idle
 // @grant        none
 // ==/UserScript==
